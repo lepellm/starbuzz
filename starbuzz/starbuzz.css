@@ -79,3 +79,19 @@ a:visited {
   top: 150px;
   left: 470px;
 }
+.award {
+  position:absolute;
+  top: 30px;
+  left: 800px;
+}
+#coupon {
+  position: fixed;
+  top: 350px;
+  left: -90
+}
+#coupon a, img{
+  border: none;
+}
+div#tablecontainer {
+  display: table-row;
+}
