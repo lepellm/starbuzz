@@ -106,7 +106,7 @@ a:visited {
 div#tablecontainer {
   display: table-row;
 }
-.drinks{
+#drinks{
   background-color: #efe5d0;
   font-size: 125%;
   padding: 15px;
